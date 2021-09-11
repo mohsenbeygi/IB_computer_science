@@ -1,7 +1,7 @@
 # IB computer science
 
 ## Topics
-### 1) Math fundamentals
+### 1) Math fundamentals (combinatorics and graphs)
 
 **counting**
 - law of the sum
