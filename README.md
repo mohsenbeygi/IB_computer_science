@@ -11,3 +11,20 @@
 - combinations
 
     *problems*
+
+**inclusion - exclusion principle**
+- n = 2
+- n = 3
+- generalization
+
+    *problems*
+
+**induction**
+- types
+
+    *problems*
+
+**graphs**
+- concepts, theorems, ...
+
+*problems*
