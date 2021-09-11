@@ -1,9 +1,9 @@
 # IB computer science
 
 ## Topics
-**1) Math fundamentals**
+### 1) Math fundamentals
 
-* counting
+**counting**
 - law of the sum
 - law of the product
 - counting the complement set
