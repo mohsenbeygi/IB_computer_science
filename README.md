@@ -30,7 +30,8 @@
 - installing
 - print
 - variables
-- variable types <br />
+- variable types
+- input <br />
     *problems/examples*
 <br />
 
