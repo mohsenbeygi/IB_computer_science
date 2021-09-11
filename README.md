@@ -44,49 +44,49 @@
 
 - functions <br />
     *problems/examples*
- <br />
+<br />
 
 - strings <br />
     *problems/examples*
- <br />
+<br />
 
- ### 3) games
- - pygame
- - games like tetris, hangman, chess, ...
+### 3) games
+- pygame
+- games like tetris, hangman, chess, ...
 
- ### 4) web (very basic)
- - django
- - own website
- - rsa
+### 5) Advancer python
+- OOP
+- working with files
+- using Libraries
 
- ### 5) OOP
-
- ### 6) algorithms
- - sorting
- - searching <br />
+### 6) algorithms
+- sorting
+- searching <br />
     *problems/examples*
- <br />
+<br />
 
 - recursion <br />
     *problems/examples*
- <br />
+<br />
+
+- rsa
 
 - growth of functions <br />
     *problems/examples*
- <br />
+<br />
 
 - divide and conquer <br />
     *problems/examples*
- <br />
+<br />
 
- - data structures <br />
+- data structures <br />
     *problems/examples*
- <br />
+<br />
 
- - dp <br />
+- dp <br />
     *problems/examples*
- <br />
+<br />
 
 ### 7) ai
- - ai battles 
- - machine learning ...
+- ai battles 
+- machine learning ...
