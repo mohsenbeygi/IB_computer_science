@@ -27,7 +27,7 @@
 **graphs**
 - concepts, theorems, ...
 
-*problems*
+    *problems*
 
 ### 2) python
 
@@ -36,16 +36,16 @@
 - variables
 - variable types
 
-*problems/examples*
+    *problems/examples*
 
 - 'if' and conditions
 
-*problems/examples*
+    *problems/examples*
 
 - loops: 'for' and 'while'
 
-*problems/examples*
+    *problems/examples*
 
 - functions
 
-*problems/examples*
+    *problems/examples*
