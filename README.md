@@ -88,5 +88,5 @@
 <br />
 
 ### 7) ai
-- ai battles 
+- ai battles (e.g. ai vs ai in tic tac toe)
 - machine learning ...
