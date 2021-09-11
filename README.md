@@ -37,14 +37,17 @@
 - variable types
 
     *problems/examples*
+    
 
 - 'if' and conditions
 
     *problems/examples*
 
+
 - loops: 'for' and 'while'
 
     *problems/examples*
+
 
 - functions
 
