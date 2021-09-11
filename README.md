@@ -88,5 +88,3 @@
 ### 6) ai
  - ai battles 
  - machine learning ...
-
- ![This is an image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.nyckelspel.se%2F9%2F50889%2F33357%2F1200x630%2Ftetris-1.webp&imgrefurl=https%3A%2F%2Fnyckelspel.se%2Ftetris-spel%2F&tbnid=8Be6r9bH_yliVM&vet=12ahUKEwirtNPE2vbyAhWoBxAIHVOwD5EQMygFegUIARDaAQ..i&docid=mmZfHK3fV1Y-8M&w=1200&h=630&q=tetris&ved=2ahUKEwirtNPE2vbyAhWoBxAIHVOwD5EQMygFegUIARDaAQ)
