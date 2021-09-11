@@ -89,4 +89,5 @@
 
 ### 7) ai
 - ai battles (e.g. ai vs ai in tic tac toe)
+- minimax algorithm
 - machine learning ...
