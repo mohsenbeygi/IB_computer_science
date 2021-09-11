@@ -59,7 +59,9 @@
  - own website
  - rsa
 
- ### 5) algorithms
+ ### 5) OOP
+
+ ### 6) algorithms
  - sorting
  - searching <br />
     *problems/examples*
@@ -85,6 +87,6 @@
     *problems/examples*
  <br />
 
-### 6) ai
+### 7) ai
  - ai battles 
  - machine learning ...
