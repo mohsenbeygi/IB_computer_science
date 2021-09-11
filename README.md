@@ -47,6 +47,10 @@
     *problems/examples*
 <br />
 
+- lists <br />
+    *problems/examples*
+<br />
+
 - strings <br />
     *problems/examples*
 <br />
