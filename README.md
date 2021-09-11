@@ -12,7 +12,6 @@
 
     *problems*
 
-
 **inclusion - exclusion principle**
 - n = 2
 - n = 3
@@ -20,14 +19,33 @@
 
     *problems*
 
-
 **induction**
 - types
 
     *problems*
 
-
 **graphs**
 - concepts, theorems, ...
 
 *problems*
+
+### 2) python
+
+- installing
+- print
+- variables
+- variable types
+
+*problems/examples*
+
+- 'if' and conditions
+
+*problems/examples*
+
+- loops: 'for' and 'while'
+
+*problems/examples*
+
+- functions
+
+*problems/examples*
