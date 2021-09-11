@@ -3,7 +3,7 @@
 ## Topics
 **1) Math fundamentals**
 
-    counting
+* counting
 - law of the sum
 - law of the product
 - counting the complement set
