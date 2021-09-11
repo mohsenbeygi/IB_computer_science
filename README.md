@@ -2,6 +2,7 @@
 
 ## Topics
 **1) Math fundamentals**
+
     counting
 - law of the sum
 - law of the product
