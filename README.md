@@ -45,3 +45,48 @@
 - functions <br />
     *problems/examples*
  <br />
+
+- strings <br />
+    *problems/examples*
+ <br />
+
+ ### 3) games
+ - pygame
+ - games like tetris, hangman, chess, ...
+
+ ### 4) web (very basic)
+ - django
+ - own website
+ - rsa
+
+ ### 5) algorithms
+ - sorting
+ - searching <br />
+    *problems/examples*
+ <br />
+
+- recursion <br />
+    *problems/examples*
+ <br />
+
+- growth of functions <br />
+    *problems/examples*
+ <br />
+
+- divide and conquer <br />
+    *problems/examples*
+ <br />
+
+ - data structures <br />
+    *problems/examples*
+ <br />
+
+ - dp <br />
+    *problems/examples*
+ <br />
+
+ 6) ai
+ - ai battles 
+ - machine learning ...
+
+ ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
