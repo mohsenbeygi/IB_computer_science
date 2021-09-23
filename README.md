@@ -76,7 +76,7 @@
 - minimax algorithm
 - machine learning ...
 
-### Appendix (mathematical)
+### Appendix (mathematical background)
 **counting**
 - law of the sum
 - law of the product
