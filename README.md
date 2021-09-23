@@ -1,31 +1,8 @@
 # IB computer science
 
 ## Topics
-### 1) Math fundamentals (combinatorics and graphs)
 
-**counting**
-- law of the sum
-- law of the product
-- counting the complement set
-- permutations
-- combinations <br />
-    *problems*
-
-**inclusion - exclusion principle**
-- n = 2
-- n = 3
-- generalization <br />
-    *problems*
-
-**induction**
-- types <br />
-    *problems*
-
-**graphs**
-- concepts, theorems, ... <br />
-    *problems*
-
-### 2) python
+### 1) python
 
 - installing
 - print
@@ -55,16 +32,16 @@
     *problems/examples*
 <br />
 
-### 3) games
+### 2) games
 - pygame
 - games like tetris, hangman, chess, ...
 
-### 5) Advancer python
+### 3) Advancer python
 - OOP
 - working with files
 - using Libraries
 
-### 6) algorithms
+### 4) algorithms
 - sorting
 - searching <br />
     *problems/examples*
@@ -94,7 +71,32 @@
 
 - online problem solving websites (codeforces, USACO, ...)
 
-### 7) ai
+### 5) ai
 - ai battles (e.g. ai vs ai in tic tac toe)
 - minimax algorithm
 - machine learning ...
+
+### Appendix (mathematical)
+**counting**
+- law of the sum
+- law of the product
+- counting the complement set
+- permutations
+- combinations <br />
+    *problems*
+
+**inclusion - exclusion principle**
+- n = 2
+- n = 3
+- generalization <br />
+    *problems*
+
+**induction**
+- types <br />
+    *problems*
+
+**graphs**
+- concepts, theorems, ... <br />
+    *problems*
+
+**matrices**
