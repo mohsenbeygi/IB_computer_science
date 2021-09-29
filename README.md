@@ -14,6 +14,7 @@
 
 - 'if' and conditions <br />
     *problems/examples*
+    *project 1 "calculator"*
 <br />
 
 - loops: 'for' and 'while' <br />
