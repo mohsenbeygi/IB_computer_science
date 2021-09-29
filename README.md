@@ -76,7 +76,7 @@
 - minimax algorithm
 - machine learning ...
 
-### Appendix (mathematical background)
+### Appendix
 **counting**
 - law of the sum
 - law of the product
@@ -100,3 +100,12 @@
     *problems*
 
 **matrices**
+- matrices and matrix operations
+- basic matrix properties
+
+**terminal**
+- navigating directories
+- adding/removing files
+- ls
+- copying/moving
+- others
