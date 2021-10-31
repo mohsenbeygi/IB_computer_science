@@ -1,0 +1,25 @@
+# player names
+PLAYER_1_NAME = "player"
+PLAYER_2_NAME = "random player"
+
+# display settings
+WIDTH = 800
+HEIGHT = 600
+FPS = 60
+TEXT_FONT = 'Comic Sans MS'
+TEXT_SIZE = 30
+
+# define colors
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+
+# table settings
+TABLE_WIDTH = 3
+TABLE_HEIGHT = 3
+CELL_WIDTH = min(WIDTH / 4, HEIGHT / 4)
+TABLE_TOP_LEFT_CORNER = ((WIDTH - CELL_WIDTH * 3) / 2, (HEIGHT - CELL_WIDTH * 3) / 2)
+TABLE_BOTTOM_RIGHT_CORNER = (WIDTH - TABLE_TOP_LEFT_CORNER[0], HEIGHT - TABLE_TOP_LEFT_CORNER[1])
+WIN_LENGTH = 3
